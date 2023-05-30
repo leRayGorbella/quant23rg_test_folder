@@ -8,7 +8,7 @@
 pip install quant23rg==0.0.5
 ```
 
-## Run group of lines from sc.py to test each functionnality from the package
+## Run group of lines from sc.py to test each functionnality 
 
 ## The quant23rg package is still in progress
 
