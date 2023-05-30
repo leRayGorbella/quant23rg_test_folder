@@ -2,10 +2,16 @@
 
 ## quant23rg is python package for quantitative analysis
 
-## Install it by typing this command in your command prompt 
+### Install the quant23rg only by typing this command in your command prompt 
 
 ```
 pip install quant23rg==0.0.5
+```
+
+### Install all requirements by typing this command in your command prompt 
+
+```
+pip install -r requirements.txt
 ```
 
 ## Run group of lines from sc.py to test each functionnality 
